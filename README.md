@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-### I'm a 🇫🇷  Software Developer living in 🇧🇷 and working at [Rodrigo Luparelli](https://www.linkedin.com/in/rodrigo-luparelli-4881a1198/).
+### I'm a  Software Developer living in 🇧🇷 [Rodrigo Luparelli](https://www.linkedin.com/in/rodrigo-luparelli-4881a1198/).
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
@@ -11,8 +11,8 @@
 
 
 
-![GitHub](https://img.shields.io/badge/github/followers/:user?label=Follow)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png)&nbsp;
 ![CircleCI](https://img.shields.io/badge/CircleCI-05122A?style=flat&logo=circleci&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
