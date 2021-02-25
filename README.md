@@ -26,18 +26,18 @@
 
 <p align="left">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=GuillaumeFalourd&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuillaumeFalourd&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=rluparelli&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rluparelli&layout=compact&langs_count=8"/>
 </a>
 </p>
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
 
-<!-- <p align="center">
+ <p align="center">
   <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
   <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
   <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
-</p> -->
+</p> 
 
 ### Let's connect ? 🤝
 
