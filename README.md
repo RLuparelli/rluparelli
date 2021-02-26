@@ -38,7 +38,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rodrigo-luparelli-4881a1198/"><img src="https://img.shields.io/badge/-Rluparelli-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/rluparelli/"><img src="https://img.shields.io/badge/-Rluparelli-%2312100E?style=flat&logo=insta&logoColor=white"/></a>
+<a href="https://www.instagram.com/rluparelli/"><img src="https://img.shields.io/badge/-Rluparelli-%2312100E?style=flat&logo=instagram&logoColor=white"/></a>
 <a href="luparelli.rodrigo@gmail.com"><img src="https://img.shields.io/badge/-luparelli.rodrigo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
