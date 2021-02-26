@@ -17,7 +17,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ![postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=nodejs)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node)&nbsp;
 
 
 
