@@ -6,7 +6,7 @@
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-### Languages & Tools 🛠
+### Languages & Tools 
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-### Analytics ⚙️
+### Analytics 
 
 
 
@@ -40,7 +40,7 @@
 <a href="http://bit.ly/guillaumefalourdlinkedin"><img src="https://img.shields.io/badge/-Rluparelli-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="http://bit.ly/guillaumefalourdtwitter"><img src="https://img.shields.io/badge/-Rluparelli-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="http://bit.ly/guillaumefalourdmedium"><img src="https://img.shields.io/badge/-@Rodrigo.Luparelli-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourddevto"><img src="https://img.shields.io/badge/-Rluparelli-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
+<a href="https://www.instagram.com/rluparelli/"><img src="https://img.shields.io/badge/-Rluparelli-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
 <a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-luparelli.rodrigo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
