@@ -17,7 +17,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ![postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Node](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=instagram)&nbsp;
+![Node](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=javascript)&nbsp;
 
 
 
@@ -39,7 +39,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rodrigo-luparelli-4881a1198/"><img src="https://img.shields.io/badge/-Rluparelli-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/rluparelli/"><img src="https://img.shields.io/badge/-Rluparelli-05122A?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/rluparelli/"><img src="https://img.shields.io/badge/-Rluparelli-05122A?style=flat&logo=instagram"/></a>
 <a href="luparelli.rodrigo@gmail.com"><img src="https://img.shields.io/badge/-luparelli.rodrigo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
