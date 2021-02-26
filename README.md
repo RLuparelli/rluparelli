@@ -22,7 +22,7 @@
 
 ### Analytics ⚙️
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rluparelli)
+
 
 <p align="left">
 <a href="https://github.com/AVS1508">
