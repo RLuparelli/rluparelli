@@ -1,6 +1,6 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Rluparelli&repo=Rluparelli&countColorcountColor) 
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> Hello World ! </h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" width="20"/> Hello World ! </h2>
 
 ### I'm a  Software Developer living in 🇧🇷 [Rodrigo Luparelli](https://www.linkedin.com/in/rodrigo-luparelli-4881a1198/).
 
@@ -19,7 +19,7 @@
 
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![BeeKeeper](https://img.shields.io/badge/-BeeKeeper-05122A?style=flat&logo=beekeeperstudio)&nbsp;
+![BeeKeeper](https://img.shields.io/badge/-Node.Js-05122A?style=flat&logo=node.js)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
 
 
