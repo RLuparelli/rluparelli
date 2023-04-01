@@ -1,5 +1,3 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Rluparelli&repo=Rluparelli&countColorcountColor) 
-
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png?1482947228" width="20"/> Hello World ! </h2>
 
 ### I'm a  Software Developer living in 🇧🇷 [Rodrigo Luparelli](https://www.linkedin.com/in/rodrigo-luparelli-4881a1198/).
