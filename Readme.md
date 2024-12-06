@@ -1,46 +1,35 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png?1482947228" width="20"/> Hello World ! </h2>
+Olá! Sou Rodrigo Luparelli, um Desenvolvedor Front-End orientado a resultados, com mais de 4 anos de experiência no desenvolvimento de aplicações web dinâmicas e responsivas. Já atuei em projetos nos setores de saúde e finanças, utilizando frameworks modernos como Vue.js, React (incluindo Next.js) e Angular, além de dominar TypeScript, Tailwind CSS, Styled Components e boas práticas de testes automatizados com Jest e Cypress.
 
-### I'm a  Software Developer living in 🇧🇷 [Rodrigo Luparelli](https://www.linkedin.com/in/rodrigo-luparelli-4881a1198/).
+Com foco em interfaces bem estruturadas, acessíveis e performáticas, tenho um histórico comprovado em otimização de fluxos de trabalho, integração de APIs e melhoria contínua da experiência do usuário. Sou adepto de metodologias ágeis (Scrum, Kanban) e procuro contribuir com soluções inovadoras em ambientes desafiadores.
 
+Competências Técnicas
+Desenvolvimento Front-End:
 
-### Languages & Tools 
+Vue.js, Angular, React, Next.js, JavaScript (ES6+), TypeScript
+Estilização e UI:
 
+Tailwind CSS, Styled Components, CSS Responsivo, Compatibilidade Cross-browser
+Testes e Qualidade:
 
+Jest, Cypress
+Integração Backend e APIs:
 
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScrpt](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![BeeKeeper](https://img.shields.io/badge/-Node.Js-05122A?style=flat&logo=node.js)&nbsp;
+Node.js, APIs RESTful, Integrações com serviços externos
+Ferramentas e Plataformas:
 
+Git, Webpack, Azure, Postman, Insomnia
+Linguagens de Apoio:
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+Java, Python, SQL
+Metodologias Ágeis:
 
+Scrum, Kanban
+Estatísticas de Linguagens no GitHub
+<p align="left"> <a href="https://github.com/rluparelli"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rluparelli&layout=compact&langs_count=8"/> </a> </p>
+Ferramentas & Tecnologias
+     
+    
 
-
-
-### Analytics 
-
-
-
-<p align="left">
-<a href="https://github.com/AVS1508">
- 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rluparelli&layout=compact&langs_count=8"/>
-</a>
-</p>
-
-
-
-
-### Let's connect ? 🤝
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rodrigo-luparelli-4881a1198/"><img src="https://img.shields.io/badge/-Rluparelli-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/rluparelli/"><img src="https://img.shields.io/badge/-Rluparelli-05122A?style=flat&logo=instagram"/></a>
-<a href="luparelli.rodrigo@gmail.com"><img src="https://img.shields.io/badge/-luparelli.rodrigo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
+Vamos Conectar?
+<p align="left"> <a href="https://www.linkedin.com/in/rodrigo-luparelli-4881a1198/"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/rluparelli/"> <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram"/> </a> <a href="mailto:luparelli.rodrigo@gmail.com"> <img src="https://img.shields.io/badge/-luparelli.rodrigo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/> </a> </p>
+Busco sempre aprimorar minhas habilidades e contribuir para projetos de alto impacto, entregando valor ao usuário final. Se você procura um desenvolvedor front-end comprometido e inovador, entre em contato!
